@@ -1,4 +1,4 @@
 # demo
 Introduction to Git and Github
-Lane Tech
+<p>Lane Tech</p>
 <p>Matej Pometlo</p>
