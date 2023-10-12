@@ -1,3 +1,3 @@
-# demo2
+# demo
 Introduction to Git and Github
 Lane Tech
